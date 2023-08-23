@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minium"> 15dp </dimen>
+    <dimen name="maximo"> 55dp </dimen>
+    <dimen name="cardbroder"> 4dp </dimen>
+    <dimen name="title"> 18dp </dimen>
+    <dimen name="title_detail"> 22dp </dimen>
+    <dimen name="size_divider"> 6dp </dimen>
+</resources>
